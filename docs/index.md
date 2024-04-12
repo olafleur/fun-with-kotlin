@@ -1,9 +1,10 @@
-# Programmation Orientée Objet 2
+Professeur : Olivier Lafleur
 
-# Semaine 11 : Introduction à la programmation fonctionnelle
-- Définitions
-- Rappels de Programmation Système (map, reduce, filter, etc.)
-- Exemples
+Courriel : [olivier.lafleur@cegeplevis.ca](mailto:olivier.lafleur@cegeplevis.ca)
+
+## Semaine 11 : Introduction à la programmation fonctionnelle
+- Définitions et paradigme fonctionnel
+- Rappels de Programmation Système (*map*, *filter*, etc.)
 - [Laboratoire Semaine 11](lab-semaine-11.md)
 
-# Semaine 12
+## Semaine 12
