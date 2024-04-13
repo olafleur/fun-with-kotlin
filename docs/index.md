@@ -8,4 +8,7 @@ Courriel : [olivier.lafleur@cegeplevis.ca](mailto:olivier.lafleur@cegeplevis.ca)
 - Rappels de Programmation Système (*map*, *filter*, etc.)
 - [Laboratoire Semaine 11](lab-semaine-11.md)
 
+<!--
 ## Semaine 12
+-->
+
