@@ -7,6 +7,7 @@ Courriel : [olivier.lafleur@cegeplevis.ca](mailto:olivier.lafleur@cegeplevis.ca)
 - Retour sur les semaines précédentes (classes, interfaces, etc.)
 - Rappels de Programmation Système (*map*, *filter*, etc.)
 - Introduction à Kotlin ([documentation officielle](https://kotlinlang.org/docs/basic-syntax.html))
+- [Code présenté en classe](https://git.dinf.ca/lafleuro/prog-oriente-objet-2-2024-04-15)
 - [Laboratoire Semaine 11](lab-semaine-11.md)
 
 <!--
