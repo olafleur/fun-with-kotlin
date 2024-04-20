@@ -1,4 +1,4 @@
-Professeur : Olivier Lafleur
+Professeur remplaçant : Olivier Lafleur
 
 Courriel : [olivier.lafleur@cegeplevis.ca](mailto:olivier.lafleur@cegeplevis.ca)
 
@@ -10,15 +10,17 @@ Courriel : [olivier.lafleur@cegeplevis.ca](mailto:olivier.lafleur@cegeplevis.ca)
 - [Code présenté en classe](https://git.dinf.ca/lafleuro/prog-oriente-objet-2-2024-04-15)
 - [Laboratoire Semaine 11](lab-semaine-11.md)
 
-<!--
 ## Semaine 12 - 22 avril 2024
+- Retour sur le laboratoire de la semaine 11
 - Définitions et paradigme fonctionnel (fonctions pures, immutabilité, composition de fonctions)
 - Qu'est-ce qui distingue un "langage orienté objet" d'un "langage fonctionnel"?
-- Fonction, Objets, Types et leurs structures de contrôle
-- Du fonctionnel en Java?
-- Capsule "Un autre langage fonctionnel" : LISP/Clojure
-- Laboratoire Semaine 12 (LabF2/TP5)
+- *Lazy loading* et parallélisme
+- [Du fonctionnel en Java?](https://stackify.com/streams-guide-java-8/)
+- [Le paradigme fonctionnel en Kotlin](https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code/)
+- Laboratoire Semaine 12 (LabF2/TP5 - 5%)
 
+<!--
+- Capsule "Un autre langage fonctionnel" : LISP/Clojure
 ## Semaine 13 - 29 avril 2024
 - Lambdas ("fonctions fléchées")
 - Fonctions d'ordre supérieurs
