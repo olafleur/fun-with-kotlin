@@ -12,7 +12,7 @@ public class Main {
         monstres.add(new Monstre("un autre", 4, 98.3));
         monstres.add(new Monstre("super cool", 87, 103.4));
 
-        Optional<Monstre> resultat = monstres.stream().filter(Monstre::energiePlusPetit).map(m -> new Monstre("bla", m.toString().length(), Math.PI)).findFirst();
+        Optional<Monstre> resultat = monstres.parallelStream().filter(Monstre::energiePlusPetit).map(m -> new Monstre("bla", m.toString().length(), Math.PI)).findFirst();
 
         System.out.println(resultat);
     }

@@ -12,10 +12,10 @@ Courriel : [olivier.lafleur@cegeplevis.ca](mailto:olivier.lafleur@cegeplevis.ca)
 
 ## Semaine 12 - 22 avril 2024
 - Retour sur le laboratoire de la semaine 11
-- Définitions et paradigme fonctionnel (fonctions pures, immutabilité, composition de fonctions)
 - Qu'est-ce qui distingue un "langage orienté objet" d'un "langage fonctionnel"?
-- *Lazy loading* et parallélisme
 - [Du fonctionnel en Java?](https://stackify.com/streams-guide-java-8/)
+- *Lazy loading* et parallélisme
+- Définitions et paradigme fonctionnel (fonctions pures, immutabilité, composition de fonctions)
 - [Le paradigme fonctionnel en Kotlin](https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code/)
 - Laboratoire Semaine 12 (LabF2/TP5 - 5%)
 

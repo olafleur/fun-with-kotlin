@@ -1,5 +1,7 @@
 package ca.cegeplevis
 
+import java.util.*
+
 fun main() {
     println("Salut le groupe!")
     println(longueur("bonjour"))
@@ -28,6 +30,29 @@ fun main() {
     print(describe(2))
 
     nouvelleListe.filter { it >= 4 }.forEach{ println(it) }
+
+    val asdf = nouvelleListe.reduce { acc,  gne -> acc + gne }
+
+    println(asdf)
+
+    val totalMontants = mutableListOf<Double>()
+    val commandes = listOf(Commande(UUID(1L, 2L), UUID(1L, 2L), 3.0, 4.0, Calendar.getInstance()))
+
+    // En paradigme impératif
+    for (commande: Commande in commandes) {
+        val paieTotale = commande.paieBase + commande.pourboire
+        if (paieTotale > 0) {
+            totalMontants.add(paieTotale)
+        }
+    }
+
+    // En paradigme fonctionnel
+    val resultat = commandes
+        .map { commande -> commande.paieBase + commande.pourboire }
+        .filter { paieTotale -> paieTotale > 0 }
+
+    println(totalMontants)
+    print(resultat)
 }
 
 fun longueur(a: String) = a.length
