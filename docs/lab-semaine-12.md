@@ -3,7 +3,7 @@
 
 *Ce laboratoire doit être réalisé en Kotlin. Tout au long de celui-ci, [la documentation officielle](https://kotlinlang.org/docs/basic-syntax.html) et les exemples faits en classe vous seront potentiellement utile. N'hésitez pas à les utiliser au besoin!*
 
-1. Créez une application console comme suggéré à la fin du [laboratoire 11](lab-semaine-11.md), qui aura un menu similaire à celui-ci (les informations peuvent être différentes, celui-ci réapparaître une foix chaque action complétée) : 
+Créez une application console comme suggéré à la fin du [laboratoire 11](lab-semaine-11.md), qui aura un menu similaire à celui-ci (les informations peuvent être différentes, celui-ci réapparaîtra une foix chaque action complétée) : 
 
 ```
 Bienvenue au zoo!
@@ -21,7 +21,7 @@ d. Faire afficher seulement les animaux malades
 e. Augmenter l'âge de tous les animaux
 f. Poids total de tous les animaux
 
-Veuillez entrez la lettre de votre choix
+Veuillez entrez la lettre de votre choix, suivi du chiffre de l'animal concerné, au besoin
 ```
 
 1. `Faire manger un animal` augmentera son énergie de 20% pour les chats, 10% pour les chiens
