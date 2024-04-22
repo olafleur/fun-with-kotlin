@@ -14,10 +14,11 @@ Courriel : [olivier.lafleur@cegeplevis.ca](mailto:olivier.lafleur@cegeplevis.ca)
 - Retour sur le laboratoire de la semaine 11
 - Qu'est-ce qui distingue un "langage orienté objet" d'un "langage fonctionnel"?
 - [Du fonctionnel en Java?](https://stackify.com/streams-guide-java-8/)
-- *Lazy loading* et parallélisme
+- *Lazy loading* et [parallélisme](https://www.baeldung.com/java-when-to-use-parallel-stream)
 - Définitions et paradigme fonctionnel (fonctions pures, immutabilité, composition de fonctions)
 - [Le paradigme fonctionnel en Kotlin](https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code/)
-- Laboratoire Semaine 12 (LabF2/TP5 - 5%)
+- [Laboratoire Semaine 12](lab-semaine-12.md)
+- Pour le plaisir : [essayez Clojure](https://tryclojure.org/)
 
 <!--
 - Capsule "Un autre langage fonctionnel" : LISP/Clojure
