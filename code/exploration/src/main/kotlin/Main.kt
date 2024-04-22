@@ -36,13 +36,16 @@ fun main() {
     println(asdf)
 
     val totalMontants = mutableListOf<Double>()
-    val commandes = listOf(Commande(UUID(1L, 2L), UUID(1L, 2L), 3.0, 4.0, Calendar.getInstance()))
+    val commandes = listOf(Commande(UUID(1L, 2L), UUID(1L, 2L), 3.0, 4.0, Calendar.getInstance()),
+        Commande(UUID(1L, 2L), UUID(1L, 2L), 3.0, 4.0, Calendar.getInstance()))
 
     // En paradigme impératif
+    var accumulation = 0.0
     for (commande: Commande in commandes) {
         val paieTotale = commande.paieBase + commande.pourboire
         if (paieTotale > 0) {
             totalMontants.add(paieTotale)
+            accumulation += paieTotale
         }
     }
 
@@ -50,8 +53,9 @@ fun main() {
     val resultat = commandes
         .map { commande -> commande.paieBase + commande.pourboire }
         .filter { paieTotale -> paieTotale > 0 }
+        .reduce { acc, x -> x + acc }
 
-    println(totalMontants)
+    println(resultat)
     print(resultat)
 }
 
