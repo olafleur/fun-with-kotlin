@@ -13,7 +13,7 @@
 1. Créez une classe `Chien` qui implémente aussi l'interface `EtreVivant` avec au moins 3 attributs cohérents de votre choix.
 1. Faites une liste d'êtres vivants et utilisez la fonction `filter` pour enlever tous les chats noirs.
 
-**À terminer idéalement pour le lundi 29 avril 2024**
+**À terminer idéalement pour le lundi 29 avril 2024, n'est pas à remettre, mais vous aidera beaucoup pour le prochain TP**
 
 ## Explorations supplémentaires, si vous avez le temps (facultatif)
 1. Trouvez comment faire entrer à l'utilisateur des données à la console via votre programme (en anglais on parle de *console input*).
