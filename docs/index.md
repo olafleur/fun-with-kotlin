@@ -19,6 +19,8 @@ Courriel : [olivier.lafleur@cegeplevis.ca](mailto:olivier.lafleur@cegeplevis.ca)
 - [Le paradigme fonctionnel en Kotlin](https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code/)
 - [Laboratoire Semaine 12](lab-semaine-12.md)
 - Pour le plaisir : [essayez Clojure](https://tryclojure.org/)
+- [Code Java présenté en classe](https://git.dinf.ca/lafleuro/code-22-avril-2024-java)
+- [Code Kotlin présenté en classe](https://git.dinf.ca/lafleuro/code-22-avril-2024)
 
 <!--
 - Capsule "Un autre langage fonctionnel" : LISP/Clojure
