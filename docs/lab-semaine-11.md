@@ -5,7 +5,7 @@
 
 1. Bâtir un projet *Hello World* en Kotlin, comme démontré en classe. Cela vous permettra de vous assurer que tout est bien configuré (environnement, JDK, etc.)
 1. Créez une classe `Chat` avec les attributs suivants : `nom` (une chaîne de caractères), `couleur` (une classe `enum`), `poids` (valeur flottante), `malade` (un booléen) et `energie` (un entier qui sera un pourcentage de 0 à 100).
-1. Faites hériter la classe `Chat` d'une interface `EtreVivant`, qui vous forcera à ajouter la classe `manger` et la classe `depenserEnergie` à votre classe `Chat`.
+1. Faites hériter la classe `Chat` d'une interface `EtreVivant`, qui vous forcera à ajouter la méthode `manger` et la méthode `depenserEnergie` à votre classe `Chat`.
 1. Créez au moins 3 chats dans une liste avec différents attributs.
 1. Faites manger et "travailler" vos chats en leur faisant dépenser de l'énergie. Lorsque leur énergie arrive à zéro, ils ne doivent plus coopérer et refusent d'appliquer l'instruction (ils ne peuvent pas avoir une énergie négative).
 1. Utilisez la fonction `map` pour faire doubler le poids de vos chats qui sont dans votre liste.
