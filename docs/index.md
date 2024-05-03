@@ -26,6 +26,9 @@ Courriel : [olivier.lafleur@cegeplevis.ca](mailto:olivier.lafleur@cegeplevis.ca)
 
 - [Laboratoire Semaine 12](lab-semaine-12.md)
 
+> [!IMPORTANT]
+> Amusez-vous bien!
+
 <!--
 - Capsule "Un autre langage fonctionnel" : LISP/Clojure
 ## Semaine 13 - 29 avril 2024
